@@ -1,0 +1,58 @@
+
+*
+{
+    margin: 0%;
+    padding: 0;
+
+}
+header
+{
+    z-index: 1;
+    width: 100%;
+    position: fixed;
+    top:0;
+    background-color: white;
+    
+}
+main{
+    position: relative;
+    padding: 200px 50px 10px 50px;
+}
+img
+{
+    width: 150px;
+    float: left;
+}
+.heading
+{
+    display: inline;
+    
+}
+a
+{
+    
+    display: inline-block;
+    padding: 0.2rem;
+}
+nav{
+    margin-top: 8vw;
+}
+table,td,tr, th
+{
+
+    border: 1px solid black;
+    padding: 2px;
+    
+}
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 19px;
+}
+footer
+{
+    width: 100%;
+    background-color: rgb(6, 128, 165);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
